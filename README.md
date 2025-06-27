@@ -8,6 +8,8 @@ This project helps you learn **Building and Deploying an ML Model** using a simp
 - ✅ Dockerization
 - ✅ Kubernetes Deployment
 
+![ChatGPT Image Jun 27, 2025, 02_29_33 PM](https://github.com/user-attachments/assets/261842c3-90b3-426c-b6bc-0a31c829eb29)
+
 ---
 
 ## 📊 Problem Statement
